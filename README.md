@@ -3,7 +3,7 @@ The official distribution page for the high-performance Brick Breaker Android ga
 
 ## 📥 Download & Install
 To play the game, download the latest version from the **Releases** section:
-👉 **[Download APK Here](https://github.com/SatishGautam1/Brick-Breaker-Game/releases/latest)**
+👉 **[Download APK Here](https://github.com/SatishGautam1/Brick-Breaker-Game/releases/download/v1.0.0/BrickBreaker_v1.0.apk)**
 
 ### 🚀 Key Features
 - **15 Progressive Levels:** Including challenging boss stages.
